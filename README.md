@@ -2,7 +2,7 @@
 Aplicación móvil multiplataforma diseñada para pequeños comercios que permite trackear la conversión de clientes en relación con factores climáticos y temporales, ofreciendo métricas estadísticas y análisis visual offline.
 ## 🔗 Demo en Vivo & Capturas  
 *🌐 Simulación en Vivo (Web): https://trabajador-hub202.github.io/cuentaclientes-web/
-*   🎥 Demostración en Video:[PEGA AQUÍ EL ENLACE A TU VIDEO DE 1 MINUTO]
+*   🎥 Demostración en Video:https://drive.google.com/file/d/1am_7sBolzMBbdaY6JaMTbsvblALWPGUY/view?usp=sharing 
 ## 🛠️ Stack Tecnológico & Arquitectura   
 *   Framework:* Flutter (Dart)
 *   Base de Datos Local: SQLite (paquete sqflite)
