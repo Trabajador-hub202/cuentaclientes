@@ -1,17 +1,19 @@
 # contador_de_clientes
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplicación móvil multiplataforma diseñada para pequeños comercios que permite trackear la conversión de clientes en relación con factores climáticos y temporales, ofreciendo métricas estadísticas y análisis visual offline.
+## 🔗 Demo en Vivo & Capturas  
+*🌐 Simulación en Vivo (Web): [PEGA AQUÍ TU ENLACE DE GITHUB PAGES]
+*   🎥 Demostración en Video:[PEGA AQUÍ EL ENLACE A TU VIDEO DE 1 MINUTO]
+## 🛠️ Stack Tecnológico & Arquitectura   
+*   Framework:* Flutter (Dart)
+*   Base de Datos Local: SQLite (paquete sqflite)
+*   Gráficos Visuales: fl_chart
+*   Manejo de Estado: Local / State Management Eficient
+## ⚙️ Funcionalidades Clave
+*Registro de Datos de Negocio: Captura asíncrona de flujo de clientes, transacciones efectivas y variables climáticas (soleado, nublado, lluvioso).
+*   Módulo Estadístico Avanzado: Cálculo automatizado de tasa de conversión de los últimos 15 días.
+*   Visualización de Datos: Gráficos de barras interactivos para analizar el rendimiento de ventas segmentado por clima.
+*   Seguridad Local:* Panel de administración y borrado de base de datos protegido mediante hashing de contraseña local.
+## 📁 Estructura del Código LimpioEl proyecto mantiene una separación clara de responsabilidades:
+* /lib/models/: Modelos de datos para Clientes, Ventas y Clima.
+* /lib/database/: Controlador y queries de SQLite (CRUD, INNER JOINs de estadísticas).
+* /lib/screens/: Interfaces limpias (Registro de datos, Panel de Estadísticas).
