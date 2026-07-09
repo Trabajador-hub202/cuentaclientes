@@ -1,7 +1,7 @@
 # contador_de_clientes
 Aplicación móvil multiplataforma diseñada para pequeños comercios que permite trackear la conversión de clientes en relación con factores climáticos y temporales, ofreciendo métricas estadísticas y análisis visual offline.
 ## 🔗 Demo en Vivo & Capturas  
-*🌐 Simulación en Vivo (Web): [PEGA AQUÍ TU ENLACE DE GITHUB PAGES]
+*🌐 Simulación en Vivo (Web): https://trabajador-hub202.github.io/cuentaclientes-web/
 *   🎥 Demostración en Video:[PEGA AQUÍ EL ENLACE A TU VIDEO DE 1 MINUTO]
 ## 🛠️ Stack Tecnológico & Arquitectura   
 *   Framework:* Flutter (Dart)
