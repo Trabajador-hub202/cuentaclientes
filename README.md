@@ -3,7 +3,7 @@ Aplicación móvil multiplataforma diseñada para pequeños comercios que permit
 ## 🔗 Demo 
 *   🎥 Demostración en Video:https://drive.google.com/file/d/1am_7sBolzMBbdaY6JaMTbsvblALWPGUY/view?usp=sharing 
 ## 🛠️ Stack Tecnológico & Arquitectura   
-*   Framework:* Flutter (Dart)
+*   Framework: Flutter (Dart)
 *   Base de Datos Local: SQLite (paquete sqflite)
 *   Gráficos Visuales: fl_chart
 *   Manejo de Estado: Local / State Management Eficient
